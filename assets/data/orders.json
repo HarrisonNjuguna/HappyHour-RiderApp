@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:21.890Z",
+    "updatedAt": "2022-04-16T18:56:21.890Z",
+    "orderShopId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "Shop": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "HappyHour Wines & Spirits",
+      "image": "https://images.unsplash.com/photo-1508253730651-e5ace80a7025?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWxjb2hvbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "123 Nairobi",
+      "lat": -1.272863,
+      "lng": 36.834583,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "1",
+      "name": "Test User1",
+      "address": "Westlands, Nairobi",
+      "lat": -1.268264,
+      "lng": 36.811121
+    }
+  },
+  {
+    "id": "2",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:53:32.261Z",
+    "updatedAt": "2022-04-16T18:53:32.261Z",
+    "orderShopId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "Shop": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "Jacobs - Liquor",
+      "image": "https://images.unsplash.com/photo-1557149559-d74af2d38a1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YWxjb2hvbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "123 Thika",
+      "lat": -1.372863,
+      "lng": 37.844583,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "2",
+      "name": "Test User2",
+      "address": "Ruiru, Kiambu",
+      "lat": 46.86110499528364,
+      "lng": 28.54497769418778
+    }
+  },
+  {
+    "id": "3",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:49.713Z",
+    "updatedAt": "2022-04-16T18:56:49.713Z",
+    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "_version": 1,
+    "_lastChangedAt": 1650135409734,
+    "_deleted": null,
+    "Shop": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "Old Barrels",
+      "image": "https://images.unsplash.com/photo-1574879948818-1cfda7aa5b1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGFsY29ob2x8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "123 Thindigua",
+      "lat": 46.47190999528364,
+      "lng": 28.74937369418778,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "3",
+      "name": "Test User3",
+      "address": "Thindigua, Kiambu",
+      "lat": 46.86133499528364,
+      "lng": 28.54421769418778
+    }
+  }
+]
+
+
